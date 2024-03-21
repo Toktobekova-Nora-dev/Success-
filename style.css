@@ -1,0 +1,345 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    width: 1300px;
+    margin: 0 auto;
+}
+body{
+    background-color:#210E09 ;
+    background-attachment: fixed;
+   font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.header{
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.het{
+
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;   
+    gap: 40px;
+}
+.gg button {
+    width: 180px;
+height: 51px;
+border: 2px solid #D5621D;
+border-radius: 5px;
+background: none;
+color: white;
+font-size: 14px;
+font-weight: 400;
+}
+
+.section{
+    padding-top: 70px;
+    display: flex;
+   
+    justify-content: space-around;
+}
+.section-rigt{
+    
+    display: flex;
+}
+
+
+.foot-two{
+  margin-top: 10px;
+    display: flex;
+    align-items: center;
+   
+}
+.ggg{
+   
+    padding-left: 20px;
+    display: flex;
+    gap: 10px;
+    
+    flex-direction: column;
+}
+.jj{
+    display: flex;
+    gap: 50px;
+}
+.foot h1{
+font-weight: 400;
+font-size: 40px;
+color: white;
+text-align: center;
+}
+.foot-two h2{
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+}
+
+.foot-two p{
+font-weight: 400;
+font-size: 14px;
+color: white;
+line-height: 20px;
+}
+
+.foot-two h3{
+    color: #D5621D;
+    font-size: 14px;
+}
+.foot-two button{
+    background: none;
+    border: 2px solid #D5621D;
+    color: white;
+    width: 84px;
+    height: 38px;
+    border-radius: 3px;
+}
+.foot-one{
+   padding: 90px;
+   
+   
+}
+.heroo{
+    
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+    gap: 40px;
+}
+.foot-two{
+    margin-bottom: 40px;
+}
+.tel button{
+    width: 171px;
+    height: 57px;
+    border-radius: 5px;
+    background: #D5621D;
+    font-size: 18px;
+    font-weight: 700;
+    color: aliceblue;
+    border: none;
+    
+}
+.tel{
+    margin-left: 580px;
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+
+.her h3{
+     width: 260px;
+     height: 38px;
+     border-radius: 5px; 
+     background: #FFFFFF;
+     border: none;
+     text-align: center;
+     padding-top: 10px;
+}
+.hero-one h1{
+font-weight: 400;
+font-size: 40px;
+color: white;
+}
+.hero-one pre{
+    color: white;
+    font-size: 14px;
+    width: 156px;
+    height: 51px;
+
+}
+.hero-one p{
+font-size: 14px;
+color: white;
+
+}
+.bljc button{
+  width: 156px;
+  height: 51px;
+  border: 2px solid #D5621D;
+  background: none;
+  font-size: 14px;
+  font-weight: 400;
+  color: white;
+}
+.hero-one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.her{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+}
+.headly button{
+    width: 244px;
+    height: 38px;
+    background: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 700;
+}
+  .headly h1{
+    font-size: 40px;
+    font-weight: 400;
+    color: white;
+
+  }
+.headly {
+    margin-top: 150px;
+    margin-bottom: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 25px;
+}
+
+
+.flow summary{
+    width: 526px;
+    height: 67px;
+ transform: 0.4;
+    border: 2px solid rgb(35, 36, 16);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: #FFFFFF;
+    
+}
+summary:hover{
+    width: 526px;
+    height: 67px;
+  
+   border: none;
+    background: #D5621D;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: #FFFFFF;
+}
+ul{
+    color: rgba(255, 255, 255, 0.722);
+background: #D5621D;
+}
+.flow {
+    display: flex;
+   flex-direction: column;
+ gap: 24px;
+}
+.rr0{
+
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.jjj{
+    width: 40px;
+    height: 40px;
+    border: 2px solid #D5621D
+}
+.jju{
+    width: 40px;
+    height: 40px;
+    border: 2px solid #D5621D  
+}
+.rr0 img{
+padding-left: 10px;
+padding-top: 10px;
+
+}
+.flow-r{
+   
+    display: flex;
+   
+    gap: 180px;
+}
+
+
+
+.hhhhhhh{
+    color: #FFFFFF;
+    margin-top: 20px;
+    display: flex;
+    gap: 60px;
+    
+}
+.rr0{
+    margin-top: 30px;
+}
+.nnn{
+    padding-top: 30px;
+}
+.oooo{
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.block-ll{
+    width: 416px;
+    height: 656px;
+    border: 2px solid #D5621D;
+    background: #D5621D1A;
+}
+.block-ll h2{
+color: white;
+font-size: 18px;
+font-weight: 700;
+}
+.block-ll p{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+}
+.block-ll address{
+    color: white;
+    font-size: 14px;
+}
+.block-ll{
+   padding-left: 50px;
+    display: flex;    
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+}
+.block-ll hr{
+    border: 1px solid #FFFFFF;
+    width: 316px;
+
+}
+.block-left {
+    margin-bottom: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.footer hr{
+    width: 1296px;
+    border: 1px solid #FFFFFF;
+
+}
+.ler{
+    color: rgba(255, 255, 255, 0.395);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ 
+}
